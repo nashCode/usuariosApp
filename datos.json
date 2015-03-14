@@ -1,0 +1,17 @@
+[{
+	"id" : 1,
+	"nombre" : ["José", "text"],
+	"apellido" : ["Domínguez", "text"]
+},
+
+{
+	"id" : 2,
+	"nombre" : ["Mariana", "text"],
+	"apellido" : ["Hernandez", "text"]
+},
+
+{
+	"id" : 3,
+	"nombre" : ["Javier", "text"],
+	"apellido" : ["Torres", "text"]
+}]

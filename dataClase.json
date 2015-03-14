@@ -1,0 +1,13 @@
+[{
+	"id" : 1,
+	"userId" : 1,
+	"nombre" : ["Jose Manuel", "text"],
+	"apellido" : ["Dominguez", "text"]
+},
+
+{
+	"id" : 2,
+	"userId" : 1,
+	"nombre" : ["Miguel", "text"],
+	"apellido" : ["Hernandez", "text"]
+}]
